@@ -1,2 +1,2 @@
-# begining
+# beginning
 my first try
